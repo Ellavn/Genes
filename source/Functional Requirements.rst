@@ -46,7 +46,7 @@ Table Analyzing
 Plot Analyzing
 ~~~~~~~~~~~~~~
 
-     .. image:: /image/image.png
+    .. image:: /image/image.png
 
 
 
