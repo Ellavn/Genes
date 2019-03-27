@@ -15,6 +15,7 @@ Welcome to Oh my genes's documentation!
    Non-functional Requirements
    Constraints
    Change Cases
+   Milestones
    Appendices
    References
    
